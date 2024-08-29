@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: SBMS-09-config-server

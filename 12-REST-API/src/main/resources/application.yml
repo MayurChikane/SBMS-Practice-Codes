@@ -1,0 +1,4 @@
+server:
+  port: 9090
+
+welcome.msg: Hello Welcome to springboot!!!!

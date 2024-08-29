@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: SBMS-04
+  boot:
+    admin:
+      client:
+        url:
+        - http://localhost:1111/
+
+server:
+  port: 9091
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+      
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+      

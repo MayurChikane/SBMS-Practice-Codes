@@ -1,0 +1,5 @@
+package com.mayur.config;
+
+public class SecurityConfig {
+
+}

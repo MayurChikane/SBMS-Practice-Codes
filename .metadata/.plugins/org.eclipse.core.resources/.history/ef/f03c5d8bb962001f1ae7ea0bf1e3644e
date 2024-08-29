@@ -1,0 +1,5 @@
+package com.mayur.exception;
+
+public class ExceptionInfo {
+
+}

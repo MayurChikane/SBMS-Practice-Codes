@@ -1,0 +1,3 @@
+spring.application.name=SBMS-13-Spring-Security
+spring.security.user.name=mayur
+spring.security.user.password=mayur

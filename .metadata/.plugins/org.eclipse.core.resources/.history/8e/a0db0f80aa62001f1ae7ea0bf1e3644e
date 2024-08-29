@@ -1,0 +1,5 @@
+package com.mayur.bind;
+
+public class CustomerEvent {
+	
+}
